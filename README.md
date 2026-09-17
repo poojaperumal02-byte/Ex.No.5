@@ -6,7 +6,7 @@
 
 
 # Aim:To
-    compare different prompting techniques and evaluate their effectiveness in solving real-world engineering problems by using a problem selected from a student's 3rd-year or final-year project work. 
+ compare different prompting techniques and evaluate their effectiveness in solving real-world engineering problems by using a problem selected from a student's 3rd-year or final-year project work. 
 
 
 ## AI TOOL REQUIRED
